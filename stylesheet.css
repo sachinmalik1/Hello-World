@@ -1,0 +1,50 @@
+html, body {
+	padding-top:70px;
+	    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #333;
+    background-color:#fff;
+    margin:0px;
+}
+	
+.wrap-page {
+	min-height:100%;
+	height:auto;
+}
+
+
+.jumbotron h2 {
+	color:#FF26F0;
+}
+.navbar-inverse {
+	background-color:#393934;
+	border-bottom: 1px solid #ff8D15;
+	font-weight: 700;
+	font-size: 15px;
+	border-color: #080808;
+}
+
+.navbar-fixed-top, .navbar-fixed-bottam{
+	position:fixed;
+	right:0px;
+	left:0px;
+	z-index:1030;
+}
+.navbar {
+	min-height: 50px;
+	margin-bottom: 20px;
+	border:1px solid transparent;
+	border-radius: 4px;
+	position:relative;
+	color:red;
+}
+.nav {
+	display: block;
+}
+.nav navbar-nav{
+	color:red;
+}
+.nav-bar brand {
+	color: red;
+}
