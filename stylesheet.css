@@ -36,7 +36,7 @@ html, body {
 	margin-bottom: 20px;
 	border:1px solid transparent;
 	border-radius: 4px;
-	position:relative;
+	position:fixed;
 	color:red;
 }
 .nav {
@@ -48,3 +48,13 @@ html, body {
 .nav-bar brand {
 	color: red;
 }
+.navbar-header { 
+   display: inline-block;
+   float: left;
+   padding: 15px;
+} 
+.navbar-header button { 
+   display: inline-block;
+   float: left;
+   padding: 15px;
+} 
