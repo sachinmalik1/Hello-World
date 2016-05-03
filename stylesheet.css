@@ -58,3 +58,25 @@ html, body {
    float: left;
    padding: 15px;
 } 
+.header  {
+	padding:25px;
+	border-bottom: 3px solid #f01251;
+	
+}
+.header h2 {
+	display:inline-block;
+}
+.supporting {
+	padding:20px;
+}
+.main {
+	padding:50px;
+}
+.supporting {
+	border-bottom: 3px solid #f70e0e;
+
+}
+.footer {
+	border:1px solid #676767;
+	padding:30px;
+}
